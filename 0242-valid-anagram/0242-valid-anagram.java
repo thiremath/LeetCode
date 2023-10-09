@@ -10,18 +10,8 @@ class Solution {
             return false ;
         }
         for(int i=0;i<s.length();i++){
-            s_occ = 0 ;
-            t_occ = 0 ;
-            if(sHash.containsKey(s.charAt(i))){
-                s_occ = sHash.get(s.charAt(i)) ;
-            }
-            if(tHash.containsKey(t.charAt(i))){
-                t_occ = tHash.get(t.charAt(i)) ;
-            }
-            s_occ++ ;
-            t_occ++ ;
-            sHash.put(s.charAt(i),s_occ) ;
-            tHash.put(t.charAt(i),t_occ) ;
+            sHash.put(s.charAt(i), sHash.getOrDefault(s.charAt(i), 0) + 1);
+            tHash.put(t.charAt(i), tHash.getOrDefault(t.charAt(i), 0) + 1);
         }
         if(sHash.equals(tHash)){
             return true ;
