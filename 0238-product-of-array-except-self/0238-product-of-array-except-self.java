@@ -3,15 +3,14 @@ class Solution {
         int n = nums.length;
         int[] ans = new int[n] ;
         int temp = 1 ;
-        int i;
-        for(i=0;i<n;i++){
+        for(int i=0;i<n;i++){
             ans[i] = temp ;
             temp *= nums[i] ;
         }
         temp = 1 ;
-        for(i=n-1;i>=0;i--){
-            ans[i] *= temp ;
-            temp *= nums[i] ;
+        for(int j=n-1;j>=0;j--){
+            ans[j] *= temp ;
+            temp *= nums[j] ;
         }
 
         return ans ;
