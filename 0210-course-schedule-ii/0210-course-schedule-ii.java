@@ -3,7 +3,7 @@ class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         boolean[][] arr = new boolean[numCourses][numCourses];
         boolean[] isVisited = new boolean[numCourses];
-        int[] outgoing = new int[numCourses];
+        // int[] outgoing = new int[numCourses];
         ans = new ArrayList<>();
 
         // if(prerequisites.length == 0){
@@ -12,18 +12,18 @@ class Solution {
 
         for(int[] x: prerequisites){
             arr[x[0]][x[1]] = true;
-            outgoing[x[0]]++;
+            // outgoing[x[0]]++;
         }
 
-        for(int i=0;i<outgoing.length;i++){
-            if(outgoing[i] > 0){
+        for(int i=0;i<numCourses;i++){
+            // if(outgoing[i] > 0){
                 if(!isVisited[i] && isCyclic(arr,isVisited,new boolean[numCourses],i)){
                     return new int[0];
                 }
-            }
-            if(!ans.contains(i)){
-                ans.add(i);
-            }
+            // }
+            // if(!ans.contains(i)){
+            //     ans.add(i);
+            // }
         }
 
         return ans.stream().mapToInt(i -> i).toArray();
