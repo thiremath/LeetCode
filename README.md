@@ -54,4 +54,12 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
