@@ -62,4 +62,9 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
