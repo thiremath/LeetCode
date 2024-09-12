@@ -31,6 +31,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
@@ -53,6 +54,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 ## Design
 |  |
