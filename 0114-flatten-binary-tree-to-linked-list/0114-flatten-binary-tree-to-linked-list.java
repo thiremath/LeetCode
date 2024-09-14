@@ -37,16 +37,13 @@ class Solution {
             if(root.right == null){
                 temp = temp2;
             }
-            flattenWorker(root.left).right = root.right;
+            temp2.right = root.right;
             root.right = root.left;
             root.left = null;
         }
 
         return temp;
 
-
-        // root.right = lnode;
-        // root.left = null;
     }
 
 }
