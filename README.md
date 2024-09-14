@@ -7,6 +7,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thiremath/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
@@ -80,8 +81,10 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
