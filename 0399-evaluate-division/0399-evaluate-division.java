@@ -15,26 +15,26 @@ class Solution {
             Arrays.fill(row,-1);
         }
 
-        int counter=0;
+        // int counter=0;
         int indexcounter = -1;
 
-        for(List<String> row: equations){
+        for(int i=0;i<equations.size();i++){
 
-            if(! map.containsKey(row.get(0)) ){
-                map.put(row.get(0),++indexcounter);
+            if(! map.containsKey(equations.get(i).get(0)) ){
+                map.put(equations.get(i).get(0),++indexcounter);
                 adjlist.add(new ArrayList<Integer>());
             }
 
-            if(! map.containsKey(row.get(1)) ){
-                map.put(row.get(1),++indexcounter);
+            if(! map.containsKey(equations.get(i).get(1)) ){
+                map.put(equations.get(i).get(1),++indexcounter);
                 adjlist.add(new ArrayList<Integer>());
             }
 
-            int index0 = map.get(row.get(0)) ;
-            int index1 = map.get(row.get(1)) ;
+            int index0 = map.get(equations.get(i).get(0)) ;
+            int index1 = map.get(equations.get(i).get(1)) ;
 
-            weight[index0][index1] = values[counter];
-            weight[index1][index0] = 1 / values[counter];
+            weight[index0][index1] = values[i];
+            weight[index1][index0] = 1 / values[i];
             weight[index0][index0] = 1;
             weight[index1][index1] = 1;
 
@@ -47,40 +47,40 @@ class Solution {
             // if(!isNode[index1]){
             //     isNode[index1] = true;
             // }
-            counter++;
+            // counter++;
         }
 
-        counter=0;
+        // counter=0;
         // double[][] weight = new double[indexcounter+1][indexcounter+1];
 
         // for(double[] row: weight){
         //     Arrays.fill(row,-1);
         // }
 
-        for(List<String> row: queries){
+        for(int i=0;i<queries.size();i++){
 
-            if( (! map.containsKey(row.get(0))) || (! map.containsKey(row.get(1))) ){
-                arr[counter] = -1;
+            if( (! map.containsKey(queries.get(i).get(0))) || (! map.containsKey(queries.get(i).get(1))) ){
+                arr[i] = -1;
             }
 
             else{
 
-                int index0 = map.get(row.get(0)) ;
-                int index1 = map.get(row.get(1)) ;
+                int index0 = map.get(queries.get(i).get(0)) ;
+                int index1 = map.get(queries.get(i).get(1)) ;
 
                 if(weight[index0][index1] != -1){
-                    arr[counter] = weight[index0][index1];
+                    arr[i] = weight[index0][index1];
                 }
 
                 else{
-                    arr[counter] = calcWeight(index0, index1, adjlist, weight, new ArrayList<>());
-                    weight[index0][index1] = arr[counter];
-                    weight[index1][index0] = 1 / arr[counter];
+                    arr[i] = calcWeight(index0, index1, adjlist, weight, new ArrayList<>());
+                    // weight[index0][index1] = arr[i];
+                    // weight[index1][index0] = 1 / arr[i];
                 }
 
             }
 
-            counter++;
+            // counter++;
         }
 
 
@@ -100,7 +100,13 @@ class Solution {
             if(! recPath.contains(adj) ){
                 double tempans = calcWeight(adj,index1,adjList,weight,recPath);
                 if(tempans != -1){
-                    return weight[index0][adj] * tempans;
+                    weight[adj][index1] = tempans;
+                    weight[index1][adj] = 1 / tempans;
+
+                    weight[index0][index1] = weight[index0][adj] * tempans;
+                    weight[index1][index0] = 1 / weight[index0][index1];
+
+                    return weight[index0][index1];
                 }
             }
         }
