@@ -40,6 +40,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Search
@@ -106,6 +107,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -120,4 +122,16 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
