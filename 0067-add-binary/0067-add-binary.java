@@ -1,45 +1,24 @@
 class Solution {
     public String addBinary(String a, String b) {
         StringBuilder ans = new StringBuilder("");
-        int index=0,carry=0,temp=0;
+        int carry=0,sum=0;
+        int i = a.length()-1;
+        int j = b.length()-1;
 
-        while(a.length()-index > 0 && b.length()-index > 0){
-            temp = Integer.valueOf(String.valueOf(a.charAt(a.length()-index-1)))+ Integer.valueOf(String.valueOf(b.charAt(b.length()-index-1)))+carry;
+        while(i >= 0 || j >= 0){
+            sum = carry;
 
-            ans.append(Integer.toString(temp % 2)) ;
-
-            if(temp < 2){
-                carry=0;
-            }
-            else{
-                carry=1;
+            if(i >= 0){
+                sum += a.charAt(i--) - '0';
             }
 
-            index++;
-        }
-
-        while(a.length()-index > 0 || b.length()-index > 0){
-
-            if(a.length()-index > 0){
-                temp = Integer.valueOf(String.valueOf(a.charAt(a.length()-index-1)))+carry;
+            if(j >= 0){
+                sum += b.charAt(j--) - '0';
             }
 
-            else{
-                temp = Integer.valueOf(String.valueOf(b.charAt(b.length()-index-1)))+carry;
-            }
+            ans.append(sum % 2) ;
 
-            ans.append(Integer.toString(temp%2)) ;
-
-            if(temp < 2){
-                carry=0;
-            }
-            else{
-                carry=1;
-            }
-
-
-            index++;
-
+            carry = sum<2 ? 0 : 1 ;
         }
 
         if(carry == 1){
