@@ -63,11 +63,13 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 ## Stack
@@ -134,4 +136,12 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
