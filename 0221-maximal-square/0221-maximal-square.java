@@ -1,21 +1,19 @@
 class Solution {
+    int ans;
     public int maximalSquare(char[][] matrix) {
+        ans=0;
         int[][] dp = new int[matrix.length][matrix[0].length];
         for(int[] i: dp){
             Arrays.fill(i,-1);
         }
         maximalSquareWorker(matrix,0,0,dp);
-        int ans=0;
-        for(int[] i: dp){
-            for(int j: i){
-                ans = Math.max(ans,j);
-            }
-        }
-        return ans*ans ;
+        return ans*ans;
     }
 
     public void maximalSquareWorker(char[][] matrix, int i, int j, int[][] dp) {
+
         if(i < matrix.length && j < matrix[0].length){
+
             if(dp[i][j] == -1){
 
                 maximalSquareWorker(matrix,i+1,j,dp);
@@ -34,8 +32,11 @@ class Solution {
                         }
                     }
                 }
-                
+
+                ans = Math.max(ans,dp[i][j]);
+
             }
+
         }
 
     }
