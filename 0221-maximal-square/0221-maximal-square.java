@@ -20,11 +20,8 @@ class Solution {
                 maximalSquareWorker(matrix,i,j+1,dp);
                 maximalSquareWorker(matrix,i+1,j+1,dp);
 
-                if(matrix[i][j] == '0'){
-                    dp[i][j] = 0;
-                }
-
-                else{
+                dp[i][j] = 0;
+                if(matrix[i][j] == '1'){
                     dp[i][j] = 1;
                     if(i+1 < matrix.length && j+1 < matrix[0].length){
                         if(dp[i+1][j] > 0 && dp[i][j+1] > 0 && dp[i+1][j+1] > 0){
