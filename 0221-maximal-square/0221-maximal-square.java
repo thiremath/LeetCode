@@ -7,7 +7,7 @@ class Solution {
             Arrays.fill(i,-1);
         }
         maximalSquareWorker(matrix,0,0,dp);
-        return (int)Math.pow((double)ans,2);
+        return ans*ans;
     }
 
     public void maximalSquareWorker(char[][] matrix, int i, int j, int[][] dp) {
