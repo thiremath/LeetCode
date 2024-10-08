@@ -36,6 +36,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -119,6 +120,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/thiremath/LeetCode/tree/master/0097-interleaving-string) |
@@ -155,6 +157,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
