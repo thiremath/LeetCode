@@ -1,16 +1,14 @@
 class Solution {
     public int findMaxFish(int[][] grid) {
-        // boolean[][] explored = new boolean[grid.length][grid[0].length];
+        boolean[][] explored = new boolean[grid.length][grid[0].length];
         int res=0;
 
         for(int i=0;i<grid.length;i++){
 
             for(int j=0;j<grid[0].length;j++){
 
-                if(grid[i][j] > 0 ){
-                    res = Math.max(res, dfs(i,j, new boolean[grid.length][grid[0].length], grid));
-                    // explored[i][j] = true;
-                    // res = Math.max(res, grid[i][j] + Math.max( dfs(i,j+1, explored, grid) , dfs(i+1,j, expplored, grid) ) ) ;
+                if(grid[i][j] > 0 && !explored[i][j]){
+                    res = Math.max(res, dfs(i,j,explored, grid));
                 }
             }
         }
