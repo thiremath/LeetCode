@@ -91,6 +91,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/thiremath/LeetCode/tree/master/0097-interleaving-string) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
+| [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
