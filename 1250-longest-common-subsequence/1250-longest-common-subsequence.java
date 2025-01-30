@@ -4,17 +4,17 @@ class Solution {
         for(int[] temp: dp){
             Arrays.fill(temp,-1);
         }
-        return lcsWorker(text1,text2,0,0,dp);
+        return lcsWorker(text1.toCharArray(),text2.toCharArray(),0,0,dp);
     }
 
-    public int lcsWorker(String text1, String text2, int index1, int index2, int[][] dp) {
-        if(index1 == text1.length() || index2 == text2.length()){
+    public int lcsWorker(char[] text1, char[] text2, int index1, int index2, int[][] dp) {
+        if(index1 == text1.length || index2 == text2.length){
             return 0;
         }
 
         if(dp[index1][index2] == -1){
 
-            if(text1.charAt(index1) == text2.charAt(index2)){
+            if(text1[index1] == text2[index2]){
                 dp[index1][index2] = 1 + lcsWorker(text1,text2,index1+1,index2+1,dp);
             }
 
