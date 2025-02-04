@@ -3,17 +3,12 @@ class Solution {
 
         List<List<Integer>> dp = new ArrayList<>();
 
-        for(List<Integer> x: triangle){
-
-            dp.add(new ArrayList<>(x));
-        }
-
-        for(List<Integer> x1 : dp){
-
+        for(List<Integer> x1 : triangle){
+            List<Integer> temp = new ArrayList<>();
             for(int i=0;i<x1.size();i++){
-
-                x1.set(i,-1);
+                temp.add(-1);
             }
+            dp.add(temp);
         }
 
         return minimumTotalWorker(triangle, dp, 0, 0);
