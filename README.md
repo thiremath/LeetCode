@@ -48,6 +48,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/thiremath/LeetCode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -144,6 +145,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/thiremath/LeetCode/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/thiremath/LeetCode/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
