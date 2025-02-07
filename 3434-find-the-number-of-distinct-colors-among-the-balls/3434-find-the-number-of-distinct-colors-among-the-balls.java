@@ -7,24 +7,27 @@ class Solution {
 
         for(int i=0;i<queries.length;i++){
 
-            if(ballmap.containsKey(queries[i][0])){
+            int ball = queries[i][0];
+            int col = queries[i][1];
 
-                int col = ballmap.get(queries[i][0]);
-                colmap.put(col,colmap.get(col)-1);
-                if(colmap.get(col) == 0){
+            if(ballmap.containsKey(ball)){
 
-                    colmap.remove(col);
+                int currcol = ballmap.get(ball);
+                colmap.put(currcol,colmap.get(currcol)-1);
+                if(colmap.get(currcol) == 0){
+
+                    colmap.remove(currcol);
                 }
             }
 
-            ballmap.put(queries[i][0],queries[i][1]);
+            ballmap.put(ball,col);
 
-            if(!colmap.containsKey(queries[i][1])){
-                colmap.put(queries[i][1],1);
+            if(!colmap.containsKey(col)){
+                colmap.put(col,1);
             }
 
             else{
-                colmap.put(queries[i][1], colmap.get(queries[i][1])+1);
+                colmap.put(col, colmap.get(col)+1);
             }
 
             res[i] = colmap.size();
