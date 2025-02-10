@@ -1,11 +1,10 @@
 class Solution {
     public String clearDigits(String s) {
         Stack<Character> st = new Stack<>();
-        int index=-1;
         StringBuilder ans = new StringBuilder("");
         char[] arr = s.toCharArray();
 
-        while(++index < arr.length){
+        for(int index=0; index < arr.length; index++){
 
             if(arr[index] >= 48 && arr[index] <= 57){
                 st.pop();
