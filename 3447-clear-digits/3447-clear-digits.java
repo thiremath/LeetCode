@@ -4,7 +4,7 @@ class Solution {
 
         for(char index : s.toCharArray()){
 
-            if(index >= 48 && index <= 57){
+            if(Character.isDigit(index)){
                 st.deleteCharAt(st.length() - 1);
             }
 
