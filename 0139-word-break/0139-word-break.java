@@ -19,7 +19,7 @@ class Solution {
             return 0;
         }
 
-        if(end == s.length()-1 && set.contains(s.substring(start,end+1))){
+        if(set.contains(s.substring(start,s.length()))){
             return 1;
         }
 
