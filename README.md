@@ -104,6 +104,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
+| [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/thiremath/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
