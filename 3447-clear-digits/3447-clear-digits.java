@@ -1,25 +1,19 @@
 class Solution {
     public String clearDigits(String s) {
-        Stack<Character> st = new Stack<>();
-        StringBuilder ans = new StringBuilder("");
-        char[] arr = s.toCharArray();
+        StringBuilder st = new StringBuilder("");
 
-        for(int index=0; index < arr.length; index++){
+        for(char index : s.toCharArray()){
 
-            if(arr[index] >= 48 && arr[index] <= 57){
-                st.pop();
+            if(index >= 48 && index <= 57){
+                st.deleteCharAt(st.length() - 1);
             }
 
             else{
 
-                st.push(arr[index]);
+                st.append(index);
             }
         }
 
-        while(st.size() > 0){
-            ans.append(st.pop());
-        }
-
-        return ans.reverse().toString();
+        return st.toString();
     }
 }
