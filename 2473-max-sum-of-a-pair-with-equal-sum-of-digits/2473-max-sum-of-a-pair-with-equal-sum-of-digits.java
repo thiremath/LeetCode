@@ -5,7 +5,13 @@ class Solution {
 
         for(int i: nums){
 
-            int sum = calcSum(i);
+            int sum = 0;
+            int k = i;
+            while(k > 0){
+                sum+=(k%10);
+                k/=10;
+            }
+
             if(!map.containsKey(sum)){
 
                 map.put(sum,i);
@@ -19,15 +25,6 @@ class Solution {
             }
         }
 
-        return ans;
-    }
-
-    public int calcSum(int i){
-        int ans=0;
-        while(i > 0){
-            ans+=(i%10);
-            i/=10;
-        }
         return ans;
     }
 
