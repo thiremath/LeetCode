@@ -11,9 +11,9 @@ class Solution {
                 map.put(sum,i);
             }
             else{
-
-                ans = Math.max(ans,i+map.get(sum));
-                if(i > map.get(sum)){
+                int temp = map.get(sum);
+                ans = Math.max(ans,i+temp);
+                if(i > temp){
                     map.put(sum,i);
                 }
             }
