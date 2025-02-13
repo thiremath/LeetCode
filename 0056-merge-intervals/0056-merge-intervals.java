@@ -33,7 +33,6 @@ class Solution {
         }
 
         boolean[] conn = Arrays.copyOf(isconn,isconn.length);
-        // System.out.println(conn[1]);
         Queue<Integer> q = new LinkedList<Integer>();
 
         for(int i=0;i<edges.length;i++){
@@ -53,7 +52,6 @@ class Solution {
                             q.add(j);
                             while(q.size() > 0){
                                 int k = q.remove();
-                                // System.out.println(conn[1]);
                                 if(conn[k]){
                                     for(int x=0;x<edges.length;x++){
 
@@ -71,24 +69,16 @@ class Solution {
                             }
                         }
                     }
-                    // conn[j] = false;
                 }
             }
             conn[i] = false;
 
             if(!isconn[i]){
                 int[] temp = new int[]{min,max};
-                // System.out.println("["+min+","+max+"]");
                 ls.add(temp);
             }
         }
         
-        int[][] ans = new int[ls.size()][2];
-        for(int i=0;i<ls.size();i++){
-
-            ans[i] = ls.get(i);
-        }
-
-        return ans;
+        return ls.toArray(new int[ls.size()][]);
     }
 }
