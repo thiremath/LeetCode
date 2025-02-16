@@ -5,7 +5,7 @@ class Solution {
         for(int i=1;i<=n;i++){
             char[] arr = Integer.toString(i*i).toCharArray();
             if(func(arr,0,i,0)){
-                System.out.println(i);
+                // System.out.println(i);
                 ans += i*i;
             }
             // System.out.println( func(Integer.toString(36*36).toCharArray(),0,36,0) );
