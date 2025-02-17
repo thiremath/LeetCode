@@ -6,33 +6,36 @@ class Solution {
 
         numTilePossibilitiesWorker(tiles,tiles.length()-1,"");
 
-        // for(String s: set){
-        //     System.out.println(s);
-        // }
-
         return set.size();
     }
 
     public void numTilePossibilitiesWorker(String tiles, int index, String st){
 
+
+
         if(index == -1){
             return ;
         }
 
+        StringBuilder s2 = new StringBuilder(String.valueOf(tiles.charAt(index)));
+
         if(st.length() == 0){
             set.add(String.valueOf(tiles.charAt(index)));
-            numTilePossibilitiesWorker(tiles,index-1,String.valueOf(tiles.charAt(index)));
+            numTilePossibilitiesWorker(tiles,index-1,String.valueOf(s2));
             numTilePossibilitiesWorker(tiles,index-1,"");
         }
 
         numTilePossibilitiesWorker(tiles,index-1,st);
 
         for(int i=0;i<st.length()+1;i++){
-            
-            String newstr = st.substring(0,i)+ tiles.charAt(index)+ st.substring(i,st.length()) ;
-            set.add(newstr);
+            StringBuilder s1 = new StringBuilder(st.substring(0,i));
+            // StringBuilder s2 = new StringBuilder(String.valueOf(tiles.charAt(index)));
+            StringBuilder s3 = new StringBuilder(st.substring(i,st.length()));
 
-            numTilePossibilitiesWorker(tiles,index-1,newstr);
+            String s = String.valueOf( s1.append(s2).append(s3) );
+            set.add(s);
+
+            numTilePossibilitiesWorker(tiles,index-1,s);
         }
         
 
