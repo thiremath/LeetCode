@@ -6,9 +6,9 @@ class Solution {
 
         numTilePossibilitiesWorker(tiles,tiles.length()-1,"");
 
-        for(String s: set){
-            System.out.println(s);
-        }
+        // for(String s: set){
+        //     System.out.println(s);
+        // }
 
         return set.size();
     }
@@ -28,13 +28,8 @@ class Solution {
         numTilePossibilitiesWorker(tiles,index-1,st);
 
         for(int i=0;i<st.length()+1;i++){
-            String before = st.substring(0,i);
-            String after = st.substring(i,st.length());
-            char temp = tiles.charAt(index);
-
-            String newstr = before+temp+after;
             
-            // System.out.println(newstr);
+            String newstr = st.substring(0,i)+ tiles.charAt(index)+ st.substring(i,st.length()) ;
             set.add(newstr);
 
             numTilePossibilitiesWorker(tiles,index-1,newstr);
