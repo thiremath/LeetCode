@@ -18,30 +18,25 @@ class Solution {
             }
         }
         
-        return String.valueOf(getHappyStringWorker(n,k,0,(double)(3.0*Math.pow(2.0,(double)n-1)),""));
+        return String.valueOf(getHappyStringWorker(n,k,3*(int)Math.pow(2.0,(double)n-1),null));
     }
 
-    public StringBuilder getHappyStringWorker(int n, int k, int index, double ele, String lastchar) {
+    public StringBuilder getHappyStringWorker(int n, int k, int ele, StringBuilder lastchar) {
 
         if(n == 0){
             return new StringBuilder("");
         }
 
-        // System.out.println("ele,n,k = "+ele+" "+n+" "+k);
-
         double temp1;
-
         int temp;
-
-        // System.out.println("temp,lastchar, index= "+temp+" "+lastchar+" "+index);
 
         StringBuilder curr = new StringBuilder("");
 
-        if(index == 0){
+        if(lastchar == null){
 
             temp1 = (double)(ele / 3.0);
             temp = (int) Math.ceil((double)( (double)k / temp1 ) );
-            
+
             if(temp == 1){
                 curr.append("a");
             }
@@ -57,9 +52,10 @@ class Solution {
         else{
 
             temp1 = (double)(ele / 2.0);
-            temp = (int) Math.ceil((double)( (double)k / temp1 ) );
+            temp = (int) Math.ceil( (double)k / (double)(ele / 2) );
+            String temp2 = String.valueOf(lastchar);
 
-            if(lastchar.equals("a")){
+            if(temp2.equals("a")){
                 if(temp == 1){
                     curr.append("b");
                 }
@@ -68,7 +64,7 @@ class Solution {
                 }
             }
 
-            else if(lastchar.equals("b")){
+            else if(temp2.equals("b")){
                 if(temp == 1){
                     curr.append("a");
                 }
@@ -88,9 +84,7 @@ class Solution {
         }
 
 
-        // System.out.println("curr= "+curr);
-
-        return curr.append( getHappyStringWorker(n-1,k%(int)temp1,index+1,Math.pow(2.0,(double)n-1),String.valueOf(curr)) );
+        return curr.append( getHappyStringWorker(n-1,k%(int)temp1,(int)Math.pow(2.0,(double)n-1),curr) );
     }
     
 }
