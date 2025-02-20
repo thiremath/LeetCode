@@ -116,6 +116,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
@@ -262,5 +263,6 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/thiremath/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
