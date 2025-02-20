@@ -33,12 +33,13 @@ class Solution {
         // conversion
 
         index = nums.length;
+        int temp = (int)Math.pow(2,nums.length-1);
 
         while(index-- != 0){
 
             // System.out.println( (number & (int)Math.pow(2,nums.length-1)) );
 
-            if((number & (int)Math.pow(2,nums.length-1)) != 0){
+            if((number & temp) != 0){
                 ans.append("1");
             }
             else{
