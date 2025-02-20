@@ -6,15 +6,7 @@ class Solution {
 
         // traverse nums[] , add numbers in the set
         for(String s: nums){
-            index=s.length()-1;
-            int curr=0;
-            for(char c: s.toCharArray()){
-                if(c == '1'){
-                    curr += Math.pow(2,index);
-                }
-                index--;
-            }
-            set.add(curr);
+            set.add(Integer.parseInt(s,2));
         }
 
 
