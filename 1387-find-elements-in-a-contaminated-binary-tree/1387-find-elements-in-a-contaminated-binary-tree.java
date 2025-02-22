@@ -29,13 +29,14 @@ class FindElements {
 
         while(!queue.isEmpty()){
             TreeNode temp = queue.remove();
-            set.add(temp.val);
+            int value = temp.val;
+            set.add(value);
             if(temp.left != null){
-                temp.left.val = 1+2*temp.val;
+                temp.left.val = 1+2*value;
                 queue.add(temp.left);
             }
             if(temp.right != null){
-                temp.right.val = 2+2*temp.val;
+                temp.right.val = 2+2*value;
                 queue.add(temp.right);
             }
         }
