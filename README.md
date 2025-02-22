@@ -13,6 +13,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/thiremath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -117,6 +118,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -147,12 +149,14 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
