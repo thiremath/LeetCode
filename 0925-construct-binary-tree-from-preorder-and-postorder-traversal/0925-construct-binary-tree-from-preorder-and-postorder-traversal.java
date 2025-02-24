@@ -42,8 +42,8 @@ class Solution {
         TreeNode curr = head;
 
         while(prelow+1 <= prehigh && postlow+1 <= posthigh && preorder[prelow+1] == postorder[postlow+1]){
-            curr.right = new TreeNode(preorder[prelow+1]);
-            curr = curr.right;
+            curr.left = new TreeNode(preorder[prelow+1]);
+            curr = curr.left;
             prelow++;
             postlow++;
         }
