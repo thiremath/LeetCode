@@ -64,6 +64,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1364-tuple-with-same-product](https://github.com/thiremath/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -149,6 +150,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -156,6 +158,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
@@ -173,6 +176,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -241,6 +245,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/thiremath/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
