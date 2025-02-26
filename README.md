@@ -69,6 +69,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1364-tuple-with-same-product](https://github.com/thiremath/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/thiremath/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -94,6 +95,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/thiremath/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -193,6 +196,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Queue
 |  |
 | ------- |
