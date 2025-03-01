@@ -97,17 +97,17 @@ class Solution {
     public int findRadius(int[] houses, int[] heaters) {
 
         int radius = 0;
-        HashSet<Integer> set = new HashSet<>();
+        // HashSet<Integer> set = new HashSet<>();
 
-        for(int heater: heaters){
-            set.add(heater);
-        }
+        // for(int heater: heaters){
+        //     set.add(heater);
+        // }
 
         Arrays.sort(heaters);
 
         for(int house: houses){
 
-            if(!set.contains(house)){
+            // if(!set.contains(house)){
 
                 // find closest
                 int low=0;
@@ -116,7 +116,11 @@ class Solution {
 
                 while(low <= high){
                     int mid = (low+high)/2;
-                    if(house > heaters[mid]){
+                    if(house == heaters[mid]){
+                        closest=0;
+                        break;
+                    }
+                    else if(house > heaters[mid]){
                         // closest = Math.min(Math.abs(heaters[low]-house),closest);
                         low = mid+1;
                     }
@@ -124,6 +128,10 @@ class Solution {
                         // closest = Math.min(Math.abs(heaters[high]-house),closest);
                         high = mid-1;
                     }
+                }
+
+                if(closest == 0){
+                    continue;
                 }
 
                 if(low <= heaters.length-1){
@@ -134,13 +142,11 @@ class Solution {
                     closest = Math.min(Math.abs(heaters[high]-house),closest);
                 }
 
-                // int closest = Math.min(Math.abs(heaters[low]-house),Math.abs(heaters[high]-house));
-
                 // System.out.println("closest radius for "+house+" is "+closest);
 
                 // calc dist and update radius
                 radius = Math.max(radius,closest);
-            }
+            // }
         }
 
         return radius;
