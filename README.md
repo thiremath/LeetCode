@@ -63,6 +63,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
+| [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/thiremath/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -88,6 +89,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
+| [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0056-merge-intervals](https://github.com/thiremath/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thiremath/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
