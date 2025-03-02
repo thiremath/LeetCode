@@ -30,14 +30,10 @@ class Solution {
         int index=-1;
 
         for (Map.Entry<Integer,Integer> mapElement : map.entrySet()) {
-            int key = mapElement.getKey();
-            int value = mapElement.getValue();
 
-            res[++index][0] = key;
-            res[index][1] = value;
- 
+            res[++index][0] = mapElement.getKey();
+            res[index][1] = mapElement.getValue();
         }
-
 
         sortbyColumn(res,0);
 
