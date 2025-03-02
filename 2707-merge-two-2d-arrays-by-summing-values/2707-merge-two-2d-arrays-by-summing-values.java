@@ -1,9 +1,5 @@
 class Solution {
 
-    public static void sortbyColumn(int a[][], int c){      
-        Arrays.sort(a, (x, y) -> Integer.compare(x[c],y[c]));  
-    }  
-
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
 
         HashMap<Integer,Integer> map = new HashMap<>();
@@ -35,7 +31,7 @@ class Solution {
             res[index][1] = mapElement.getValue();
         }
 
-        sortbyColumn(res,0);
+        Arrays.sort(res, (x, y) -> Integer.compare(x[0],y[0]));
 
         return res;
         
