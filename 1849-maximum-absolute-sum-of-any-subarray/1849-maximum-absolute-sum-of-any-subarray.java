@@ -7,11 +7,11 @@ class Solution {
         for(int num: nums){
             currmaxsum += num;
             currminsum += num;
-            if(currmaxsum < num){
-                currmaxsum = num;
+            if(currmaxsum < 0){
+                currmaxsum = 0;
             }
-            if(currminsum > num){
-                currminsum = num;
+            if(currminsum > 0){
+                currminsum = 0;
             }
             maxsum = Math.max(maxsum,currmaxsum);
             minsum = Math.min(minsum,currminsum);
