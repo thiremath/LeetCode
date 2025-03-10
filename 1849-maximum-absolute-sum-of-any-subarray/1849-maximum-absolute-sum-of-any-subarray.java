@@ -17,7 +17,7 @@ class Solution {
             minsum = Math.min(minsum,currminsum);
         }
 
-        return Math.max(maxsum,Math.abs(minsum));
+        return Math.max(maxsum,-1*minsum);
     }
 }
 
