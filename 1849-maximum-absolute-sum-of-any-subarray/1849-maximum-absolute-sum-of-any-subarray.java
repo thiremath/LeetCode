@@ -3,7 +3,6 @@ class Solution {
         int minsum = Integer.MAX_VALUE;
         int maxsum = Integer.MIN_VALUE;
         int currminsum=0,currmaxsum=0;
-        int res = 0;
 
         for(int num: nums){
             currmaxsum += num;
