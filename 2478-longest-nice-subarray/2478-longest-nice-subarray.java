@@ -11,7 +11,11 @@ class Solution {
         while(++high < n){
             int currnum = nums[high];
 
-            if((currnum & ornum) != 0){
+            if((currnum & ornum) == 0){
+                res= Math.max(res,(high-low)+1);
+            }
+
+            else{
                 while(low < high){
                     ornum = ornum ^ nums[low++];
                     if((currnum & ornum) == 0){
@@ -19,8 +23,7 @@ class Solution {
                     }
                 }
             }
-
-            res= Math.max(res,(high-low)+1);
+            
             ornum = ornum | currnum;
         }
 
