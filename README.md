@@ -79,6 +79,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thiremath/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/thiremath/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/thiremath/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/thiremath/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/thiremath/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -98,6 +99,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/thiremath/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/thiremath/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
+| [2478-longest-nice-subarray](https://github.com/thiremath/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
