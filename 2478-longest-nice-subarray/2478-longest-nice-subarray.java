@@ -13,6 +13,7 @@ class Solution {
 
             if((currnum & ornum) == 0){
                 res= Math.max(res,(high-low)+1);
+                ornum = ornum | currnum;
             }
 
             else{
@@ -22,9 +23,9 @@ class Solution {
                         break;
                     }
                 }
+                ornum = ornum | currnum;
             }
             
-            ornum = ornum | currnum;
         }
 
         return res;
