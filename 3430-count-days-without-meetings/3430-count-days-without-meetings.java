@@ -1,10 +1,12 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
+// // 
+//         Arrays.sort(meetings, (x, y) -> {
+//             int cmp = Integer.compare(x[0], y[0]);
+//             return cmp != 0 ? cmp : Integer.compare(x[1], y[1]);
+//         });
 
-        Arrays.sort(meetings, (x, y) -> {
-            int cmp = Integer.compare(x[0], y[0]);
-            return cmp != 0 ? cmp : Integer.compare(x[1], y[1]);
-        });
+        Arrays.sort(meetings,(x,y) -> Integer.compare(x[0],y[0]));
 
         int index=0;
         int temp = -1;
