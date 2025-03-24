@@ -1,31 +1,24 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
-// // 
-//         Arrays.sort(meetings, (x, y) -> {
-//             int cmp = Integer.compare(x[0], y[0]);
-//             return cmp != 0 ? cmp : Integer.compare(x[1], y[1]);
-//         });
 
         Arrays.sort(meetings,(x,y) -> Integer.compare(x[0],y[0]));
 
-        int index=0;
         int temp = -1;
 
-        while(index < meetings.length){
+        for(int[] meeting: meetings){
 
-            if(meetings[index][0] <= temp){
+            if(meeting[0] <= temp){
                 
-                if(meetings[index][1] <= temp){
-                    index++;
+                if(meeting[1] <= temp){
                     continue;
                 }
     
-                meetings[index][0] = temp + 1;
+                meeting[0] = temp + 1;
             }
 
-            temp = meetings[index][1];
+            temp = meeting[1];
 
-            days -= (temp-meetings[index][0])+1;
+            days -= (temp-meeting[0])+1;
 
         }
 
