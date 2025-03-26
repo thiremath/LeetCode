@@ -6,11 +6,8 @@ class Solution {
         int index=0;
         int temp = grid[0][0] % x;
 
-        // System.out.println("temp = "+temp);
-
         for(int[] innergrid: grid){
             for(int ele: innergrid){
-                // System.out.println(ele % x);
                 if(ele % x != temp){
                     return -1;
                 }
@@ -20,31 +17,10 @@ class Solution {
 
         Arrays.sort(falttenedGrid);
 
-        int n = falttenedGrid.length;
-
-        // if(n % 2 == 0){
-        //     temp = (falttenedGrid[n/2] + falttenedGrid[(n/2)-1]) / 2;
-        // }
-
-        // else{
-            temp = falttenedGrid[n/2];
-        // }
-
-        // System.out.println("temp = "+temp);
+        temp = falttenedGrid[falttenedGrid.length/2];
 
         for(int ele: falttenedGrid){
-            int curr = ele;
-            if(curr != temp){
-                while(curr > temp){
-                    curr -= x;
-                    res++;
-                }
-
-                while(curr < temp){
-                    curr += x;
-                    res++;
-                }
-            }
+            res += Math.abs(ele-temp) / x;
         }
 
         return res;
