@@ -17,7 +17,7 @@ class Solution {
 
         Arrays.sort(falttenedGrid);
 
-        temp = falttenedGrid[falttenedGrid.length/2];
+        temp = falttenedGrid[index/2];
 
         for(int ele: falttenedGrid){
             res += Math.abs(ele-temp) / x;
