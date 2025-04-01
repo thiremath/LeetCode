@@ -12,10 +12,7 @@ class Solution {
                 dp[i] += dp[i+power+1];
             }
             dp[i] = Math.max(dp[i],res);
-            res = Math.max(res,dp[i]);
-            // System.out.println(dp[i]);
-            // res = Math.max(res,dp[i]);
-            // System.out.println("res = "+res);
+            res = dp[i];
         }
 
         return res;
