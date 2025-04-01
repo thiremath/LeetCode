@@ -82,6 +82,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thiremath/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/thiremath/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/thiremath/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/thiremath/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/thiremath/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -233,6 +234,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1250-longest-common-subsequence](https://github.com/thiremath/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/thiremath/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/thiremath/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Queue
 |  |
 | ------- |
