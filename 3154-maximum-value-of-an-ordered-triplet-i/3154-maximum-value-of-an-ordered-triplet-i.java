@@ -15,21 +15,10 @@ class Solution {
             max[i] = maxval;
         }
 
-        // for(int i:min){
-        //     System.out.print(i+" ");
-        // }
-
-        // System.out.println("");
-
-        // for(int i:max){
-        //     System.out.print(i+" ");
-        // }
-
-
         for(int i=0;i<n-2;i++){
+            int num_i = nums[i];
             for(int j=i+1;j<n-1;j++){
-                // System.out.println("res,i,j,max = "+res+" "+i+" "+j+" "+max[j+1]);
-                res = Math.max(res, (long)(nums[i]-nums[j]) * max[j+1]);
+                res = Math.max(res, (long)(num_i-nums[j]) * max[j+1]);
             }
         }
 
