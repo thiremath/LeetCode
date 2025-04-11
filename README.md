@@ -145,6 +145,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thiremath/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/thiremath/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/thiremath/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -351,4 +352,8 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/thiremath/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/thiremath/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
