@@ -1,25 +1,25 @@
 class Solution {
     public String countAndSay(int n) {
 
-        String number = "1";
+        StringBuilder number = new StringBuilder("1");
 
         while(n-- != 1){
             // System.out.println(number);
-            char[] arr = number.toCharArray();
+            char[] arr = String.valueOf(number).toCharArray();
             int len = arr.length;
             int index=0;
-            number = "";
+            number = new StringBuilder("");
             while(index < len){
                 char curr = arr[index];
                 int count=1;
                 while(++index < len && curr == arr[index]){
                     count++;
                 }
-                number += String.valueOf(count)+curr;
+                number.append(String.valueOf(count)).append(curr);
                 // System.out.println(number);
             }
         }
 
-        return number;
+        return String.valueOf(number);
     }
 }
