@@ -149,6 +149,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/thiremath/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
