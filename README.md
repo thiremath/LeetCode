@@ -99,6 +99,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/thiremath/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/thiremath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/thiremath/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/thiremath/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/thiremath/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thiremath/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -175,6 +176,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/thiremath/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -252,6 +254,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/thiremath/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/thiremath/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
 | ------- |
