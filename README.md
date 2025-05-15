@@ -11,6 +11,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thiremath/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -26,6 +27,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thiremath/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
@@ -41,6 +43,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thiremath/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -51,6 +54,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thiremath/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/thiremath/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Array
@@ -70,6 +74,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -246,6 +251,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/thiremath/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -310,6 +316,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thiremath/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/thiremath/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -356,6 +363,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Data Stream
 |  |
 | ------- |
