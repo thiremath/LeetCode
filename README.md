@@ -14,6 +14,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/thiremath/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/thiremath/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/thiremath/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -31,6 +32,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/thiremath/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/thiremath/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -46,6 +48,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/thiremath/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/thiremath/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
@@ -225,6 +228,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thiremath/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/thiremath/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/thiremath/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/thiremath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
