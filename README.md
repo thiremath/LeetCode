@@ -68,6 +68,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/thiremath/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/thiremath/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
@@ -143,6 +144,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thiremath/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
@@ -278,6 +280,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/thiremath/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/thiremath/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thiremath/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
