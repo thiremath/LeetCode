@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;    
         int red=0,white=0,blue=n-1;
 
-        while(white <= blue && red <= blue){
+        while(white <= blue){
             int numWhite = nums[white];
             if(numWhite == 2){
                 swap(nums,white,blue);
