@@ -176,6 +176,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/thiremath/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
@@ -257,6 +258,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -391,6 +393,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
