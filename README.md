@@ -175,6 +175,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/thiremath/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
@@ -342,6 +343,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -388,6 +390,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
