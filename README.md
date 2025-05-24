@@ -6,6 +6,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
@@ -72,6 +73,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thiremath/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/thiremath/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
@@ -181,6 +183,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/thiremath/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
@@ -335,6 +338,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -394,6 +398,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
