@@ -1,10 +1,8 @@
 class Solution {
-    // boolean visited[][];
     public boolean exist(char[][] board, String word) {
 
         int m = board.length;
         int n = board[0].length;
-        // visited = new boolean[m][n];
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
@@ -31,12 +29,9 @@ class Solution {
 
         boolean ret = backtrack(board,m-1,n,word,index+1,visited) || backtrack(board,m,n-1,word,index+1,visited) || backtrack(board,m+1,n,word,index+1,visited) || backtrack(board,m,n+1,word,index+1,visited);
 
-        if(!ret){
-            visited[m][n] = false;
-        }
+        visited[m][n] = false;
 
         return ret;
-
         
     }
 }
