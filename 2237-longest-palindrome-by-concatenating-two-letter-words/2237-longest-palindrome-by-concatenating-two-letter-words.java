@@ -8,7 +8,7 @@ class Solution {
         for(String s: words){
             char a = s.charAt(0);
             char b = s.charAt(1);
-            String ba = b+""+a;
+            String ba = new StringBuilder(s).reverse().toString();
             // System.out.println(ba);
 
             if(a == b){
