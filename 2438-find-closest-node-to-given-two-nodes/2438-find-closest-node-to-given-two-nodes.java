@@ -26,20 +26,18 @@ class Solution {
     }
 
     public void bfs(int node, int[] edges, int[] distances){
-
-        Queue<Integer> queue = new LinkedList<>();
         HashSet<Integer> set = new HashSet<>();
         int ans = -1;
-
-        queue.add(node);
+        int x = node;
         set.add(node);
 
-        while(!queue.isEmpty()){
-            int curr = queue.poll();
+        while(x != -1){
+            int curr = x;
+            x = -1;
             distances[curr] = ++ans;
             if(!set.contains(edges[curr]) && edges[curr] != -1){
                 set.add(edges[curr]);
-                queue.add(edges[curr]);
+                x = edges[curr];
             }
         }
 
