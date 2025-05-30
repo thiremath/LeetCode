@@ -12,9 +12,11 @@ class Solution {
         bfs(node2,edges,distances_n2);
 
         for(int i=0;i<n;i++){
-            if(distances_n1[i] != -1 && distances_n2[i] != -1){
-                if(ans > Math.max(distances_n1[i],distances_n2[i])){
-                    ans = Math.max(distances_n1[i],distances_n2[i]);
+            int a = distances_n1[i];
+            int b = distances_n2[i];
+            if(a != -1 && b != -1){
+                if(ans > Math.max(a,b)){
+                    ans = Math.max(a,b);
                     node = i;
                 }
             }
