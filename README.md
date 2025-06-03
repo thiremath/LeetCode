@@ -43,6 +43,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/thiremath/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/thiremath/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/thiremath/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/thiremath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/thiremath/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -59,6 +60,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0684-redundant-connection](https://github.com/thiremath/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/thiremath/LeetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/thiremath/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/thiremath/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/thiremath/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/thiremath/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -101,6 +103,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1025-minimum-cost-for-tickets](https://github.com/thiremath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1364-tuple-with-same-product](https://github.com/thiremath/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/thiremath/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/thiremath/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
