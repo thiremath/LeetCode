@@ -14,12 +14,16 @@ class Solution {
             return 1;
         }
 
-        if (amount < 0 || index >= coins.length || amount < coins[index]) {
+        if (amount < 0 || index >= coins.length) {
             return 0;
         }
 
         if (dp[index][amount] != -1) {
             return dp[index][amount];
+        }
+
+        if(amount < coins[index]){
+            return dp[index][amount] = 0;
         }
 
         return dp[index][amount] = changeWorker(amount - coins[index], coins, index, dp)
