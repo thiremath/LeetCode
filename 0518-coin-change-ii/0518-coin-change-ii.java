@@ -14,7 +14,7 @@ class Solution {
             return 1;
         }
 
-        if (amount < 0 || index >= coins.length) {
+        if (amount < 0 || index >= coins.length || amount < coins[index]) {
             return 0;
         }
 
