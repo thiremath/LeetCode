@@ -2,14 +2,17 @@ class Solution {
     public int change(int amount, int[] coins) {
         Arrays.sort(coins);
         int n = coins.length;
-        int[][] dp = new int[n][amount+1];
+        HashMap<Integer,Integer> map[] = new HashMap[n];
         for (int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
+            map[i] = new HashMap<>();
         }
-        return changeWorker(amount, coins, 0, dp);
+        return changeWorker(amount, coins, 0, map);
     }
 
-    public int changeWorker(int amount, int[] coins, int index, int[][] dp) {
+    public int changeWorker(int amount, int[] coins, int index, HashMap<Integer,Integer> map[]) {
+
+        // System.out.println(amount+" "+index);
+
         if (amount == 0) {
             return 1;
         }
@@ -18,16 +21,20 @@ class Solution {
             return 0;
         }
 
-        if (dp[index][amount] != -1) {
-            return dp[index][amount];
+        if (map[index].containsKey(amount)) {
+            return map[index].get(amount);
         }
 
         if(amount < coins[index]){
-            return dp[index][amount] = 0;
+            map[index].put(amount,0);
+            return 0;
         }
 
-        return dp[index][amount] = changeWorker(amount - coins[index], coins, index, dp)
-                + changeWorker(amount, coins, index + 1, dp);
+        int ans = changeWorker(amount - coins[index], coins, index, map)
+                + changeWorker(amount, coins, index + 1, map);
 
+        map[index].put(amount,ans);
+
+        return ans;
     }
 }
