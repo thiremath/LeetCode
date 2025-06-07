@@ -17,7 +17,7 @@ class Solution {
 
             else{
                 for(int j=0;j<26;j++){
-                    if(st[j].size() > 0){
+                    if(!st[j].isEmpty()){
                         arr[st[j].pop()] = '*';
                         break;
                     }
