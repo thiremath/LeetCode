@@ -11,8 +11,8 @@ class Solution {
     }
 
     public int stoneGameWorker(int[] piles, int low, int high, boolean isAliceTurn,int[][] dp) {
-        if(low == high){
-            return piles[low];
+        if (low == high) {
+            return isAliceTurn ? piles[low] : 0;
         }
 
         if(dp[low][high] != -1){
