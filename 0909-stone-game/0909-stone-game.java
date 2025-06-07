@@ -23,6 +23,6 @@ class Solution {
             return dp[low][high] = Math.max(piles[low]+stoneGameWorker(piles,low+1,high,false,dp), piles[high]+stoneGameWorker(piles,low,high-1,false,dp));
         }
 
-        return dp[low][high] = Math.min(piles[low]+stoneGameWorker(piles,low+1,high,true,dp), piles[high]+stoneGameWorker(piles,low,high-1,true,dp));
+        return dp[low][high] = Math.min(stoneGameWorker(piles,low+1,high,true,dp), stoneGameWorker(piles,low,high-1,true,dp));
     }
 }
