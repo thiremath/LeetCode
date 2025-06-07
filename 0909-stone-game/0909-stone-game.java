@@ -1,12 +1,10 @@
 class Solution {
     public boolean stoneGame(int[] piles) {
         int sum=0;
-        for(int pile: piles){
-            sum+=pile;
-        }
         int n = piles.length;
         int[][] dp = new int[n][n];
         for(int i=0;i<n;i++){
+            sum+=piles[i];
             Arrays.fill(dp[i],-1);
         }
         return (stoneGameWorker(piles,0,n-1,true,dp) > sum/2);
