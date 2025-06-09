@@ -205,6 +205,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/thiremath/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/thiremath/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -300,6 +301,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0064-minimum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/thiremath/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/thiremath/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/thiremath/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
