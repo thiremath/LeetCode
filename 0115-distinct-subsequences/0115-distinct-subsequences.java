@@ -21,10 +21,15 @@ class Solution {
 
         int ans=0;
 
-        if(s.charAt(sIndex) == t.charAt(tIndex)){
-            ans = numDistinctWorker(s,t,sIndex+1,tIndex+1,dp);
+        if(t.length()-tIndex <= s.length()-sIndex){
+
+            if(s.charAt(sIndex) == t.charAt(tIndex)){
+                ans = numDistinctWorker(s,t,sIndex+1,tIndex+1,dp);
+            }
+
+            ans+=numDistinctWorker(s,t,sIndex+1,tIndex,dp);
         }
 
-        return dp[sIndex][tIndex] = ans+numDistinctWorker(s,t,sIndex+1,tIndex,dp);
+        return dp[sIndex][tIndex] = ans;
     }
 }
