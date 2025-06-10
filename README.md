@@ -227,6 +227,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thiremath/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thiremath/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2888-minimum-index-of-a-valid-split](https://github.com/thiremath/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/thiremath/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thiremath/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/thiremath/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thiremath/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
