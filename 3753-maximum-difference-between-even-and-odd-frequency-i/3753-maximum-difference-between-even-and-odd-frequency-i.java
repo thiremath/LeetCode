@@ -11,18 +11,13 @@ class Solution {
         int minevenfq = s.length();
 
         for(int i=0;i<26;i++){
-            // System.out.println(arr[i]);
             int curr = arr[i];
-            if(curr != 0){
-                if(curr % 2 != 0){
-                    if(curr > maxoddfq){
-                        maxoddfq = curr;
-                    }
-                }
-                else{
-                    if(curr < minevenfq){
-                        minevenfq = curr;
-                    }
+            if(curr % 2 != 0){
+                maxoddfq = Math.max(maxoddfq,curr);
+            }
+            else{
+                if(curr != 0){
+                    minevenfq = Math.min(minevenfq,curr);
                 }
             }
         }
