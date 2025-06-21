@@ -21,11 +21,6 @@ class Solution {
         }
 
         Arrays.sort(starr);
-
-
-        // for(int i=0;i<starr.length;i++){
-        //     System.out.println(starr[i]);
-        // }
         
         int currans=0;
 
@@ -39,13 +34,11 @@ class Solution {
                     break;
                 }
                 temp += Math.max(0,(starr[j]-starr[i])-k);
-                // currans+=temp;
             }
             ans = Math.min(ans,currans+temp);
-            // System.out.println(ans);
             currans += starr[i];
         }
 
-        return (ans == Integer.MAX_VALUE) ? 0 : ans;
+        return ans;
     }
 }
