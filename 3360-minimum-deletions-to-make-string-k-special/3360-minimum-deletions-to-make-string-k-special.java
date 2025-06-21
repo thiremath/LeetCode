@@ -39,6 +39,6 @@ class Solution {
             currans += starr[i];
         }
 
-        return ans;
+        return (ans == Integer.MAX_VALUE) ? 0 : ans;
     }
 }
