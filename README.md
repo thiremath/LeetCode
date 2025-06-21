@@ -241,6 +241,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/thiremath/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thiremath/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thiremath/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -370,6 +371,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2888-minimum-index-of-a-valid-split](https://github.com/thiremath/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thiremath/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/thiremath/LeetCode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/thiremath/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/thiremath/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -439,6 +441,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2685-first-completely-painted-row-or-column](https://github.com/thiremath/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/thiremath/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/thiremath/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/thiremath/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thiremath/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -451,6 +454,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/thiremath/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thiremath/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thiremath/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
@@ -467,6 +471,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/thiremath/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/thiremath/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
