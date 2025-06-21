@@ -15,7 +15,7 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return isValidBSTWorker(root,(long)Integer.MIN_VALUE-1,(long)Integer.MAX_VALUE+1);
+        return isValidBSTWorker(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 
     public boolean isValidBSTWorker(TreeNode root, long min, long max){
