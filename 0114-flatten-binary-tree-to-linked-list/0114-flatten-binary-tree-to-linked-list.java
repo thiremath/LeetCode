@@ -21,29 +21,21 @@ class Solution {
     }
 
     public TreeNode flattenWorker(TreeNode root){
-        TreeNode temp = null;
-        TreeNode temp2 = null;
 
-        if(root.left == null && root.right == null){
-            return root;
-        }
-
-        if(root.right != null){
-            temp = flattenWorker(root.right);
-        }
+        TreeNode rightNode = root.right;
+        TreeNode temp = root;
 
         if(root.left != null){
-            temp2 = flattenWorker(root.left);
-            if(root.right == null){
-                temp = temp2;
-            }
-            temp2.right = root.right;
+            temp = flattenWorker(root.left);
+            temp.right = root.right;
             root.right = root.left;
             root.left = null;
         }
 
+        if(rightNode != null){
+            temp = flattenWorker(rightNode);
+        }
+
         return temp;
-
     }
-
 }
