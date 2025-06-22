@@ -14,29 +14,29 @@
  * }
  */
 class Solution {
-    int ans=0,currans=0;
+
     public int sumNumbers(TreeNode root) {
-        sumNumbersWorker(root);
-        return ans;
+        return sumNumbersWorker(root,0);
     }
+    
+    public int sumNumbersWorker(TreeNode root, int sum) {
 
-    public void sumNumbersWorker(TreeNode root){
-
-        currans = currans * 10 + root.val ;
+        int temp = sum*10+root.val;
 
         if(root.left == null && root.right == null){
-            ans += currans;
+            return temp;
         }
 
+        int a=0,b=0;
+
         if(root.left != null){
-            sumNumbersWorker(root.left);
+            a = sumNumbersWorker(root.left,temp);
         }
 
         if(root.right != null){
-            sumNumbersWorker(root.right);
+            b = sumNumbersWorker(root.right,temp);
         }
 
-        currans = (currans - root.val) / 10 ;
-
+        return a+b;
     }
 }
