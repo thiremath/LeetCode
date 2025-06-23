@@ -9,37 +9,22 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null){
-            return null;
-        }
-
-        Boolean leftNode =  find(root.left,p.val,q.val);
-        Boolean rightNode = find(root.right,p.val,q.val);
-
-        // System.out.println(root.val+" "+leftNode+" "+rightNode);
-
-        if( (leftNode && rightNode) || ( (root.val == p.val || root.val == q.val) && (leftNode || rightNode)) ){
+        if(root == null || root == p || root == q){
             return root;
         }
 
-        if(leftNode){
-            return lowestCommonAncestor(root.left,p,q);
+        TreeNode leftNode =  lowestCommonAncestor(root.left,p,q);
+        TreeNode rightNode = lowestCommonAncestor(root.right,p,q);
+
+        if(leftNode!=null && rightNode!=null){
+            return root;
         }
 
-        return lowestCommonAncestor(root.right,p,q);
-
-    }
-
-    public Boolean find(TreeNode root, int p, int q){
-
-        if(root == null){
-            return false;
+        if(leftNode!=null){
+            return leftNode;
         }
 
-        if(root.val == p || root.val == q){
-            return true;
-        }
+        return rightNode;
 
-        return find(root.left,p,q) || find(root.right,p,q);
     }
 }
