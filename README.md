@@ -263,6 +263,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thiremath/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -271,6 +272,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
@@ -286,6 +288,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/thiremath/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thiremath/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thiremath/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -304,6 +307,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/thiremath/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/thiremath/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thiremath/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thiremath/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -552,6 +556,11 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/thiremath/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thiremath/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/thiremath/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
