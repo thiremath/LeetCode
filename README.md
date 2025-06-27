@@ -250,6 +250,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/thiremath/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/thiremath/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/thiremath/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thiremath/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -492,6 +493,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/thiremath/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/thiremath/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/thiremath/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -504,6 +506,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thiremath/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/thiremath/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/thiremath/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/thiremath/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/thiremath/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/thiremath/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -544,10 +547,12 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thiremath/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/thiremath/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/thiremath/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/thiremath/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/thiremath/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2998-count-symmetric-integers](https://github.com/thiremath/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/thiremath/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/thiremath/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
