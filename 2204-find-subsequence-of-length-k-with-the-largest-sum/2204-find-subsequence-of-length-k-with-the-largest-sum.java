@@ -17,12 +17,10 @@ class Solution {
 
         Arrays.sort(customnodes,Comparator.comparingInt((customNode c) -> c.val).reversed());
 
-        customNode[] customnodesK = Arrays.copyOf(customnodes,k);
-
-        Arrays.sort(customnodesK,Comparator.comparingInt((customNode c) -> c.index));
+        Arrays.sort(customnodes,0,k,Comparator.comparingInt((customNode c) -> c.index));
 
         for(int i=0;i<k;i++){
-            ans[i] = customnodesK[i].val;
+            ans[i] = customnodes[i].val;
         }
 
         return ans;
