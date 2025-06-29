@@ -6,9 +6,11 @@ class Solution {
 
         for(int i=0;i<n;i++){
             if(candiesarr[i] == 0){
-                candyworker(ratings,candiesarr,i);
+                ans+=candyworker(ratings,candiesarr,i);
             }
-            ans+=candiesarr[i];
+            else{
+                ans+=candiesarr[i];
+            }
         }
 
         return ans;
