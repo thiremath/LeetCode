@@ -229,6 +229,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/thiremath/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/thiremath/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/thiremath/LeetCode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/thiremath/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thiremath/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -450,6 +451,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2478-longest-nice-subarray](https://github.com/thiremath/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thiremath/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/thiremath/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/thiremath/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -587,6 +590,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0010-regular-expression-matching](https://github.com/thiremath/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
 | ------- |
