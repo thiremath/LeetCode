@@ -409,6 +409,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/thiremath/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thiremath/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/thiremath/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/thiremath/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/thiremath/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -582,6 +583,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/thiremath/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/thiremath/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Data Stream
 |  |
