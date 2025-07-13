@@ -1,33 +1,41 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int[][][] dp = new int[prices.length][2][3];
-        for(int i=0;i<prices.length;i++){
-            for(int j=0;j<2;j++){
-                Arrays.fill(dp[i][j],-1);
+        int n = prices.length;
+        int x = 2;
+        int[][][] dp = new int[n+1][2][x+1];
+
+        // fill k=0 with 0
+        for(int[][] twod:dp){
+            for(int[] oned: twod){
+                oned[0] = 0;
             }
         }
-        return maxProfitWorker(prices,0,1,2,dp);
+
+        // fill index = n with 0
+        for(int i=0;i<2;i++){
+            for(int j=0;j<=x;j++){
+                dp[n][i][j] = 0;
+            }
+        }
+
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j>=0;j--){
+                for(int k=x;k>0;k--){
+
+                    int ans=0;
+
+                    if(j == 1){
+                        ans = prices[i]+dp[i+1][0][k-1];
+                    }
+                    else{
+                        ans = -prices[i]+dp[i+1][1][k];
+                    }   
+
+                    dp[i][j][k] = Math.max(ans,dp[i+1][j][k]);
+                }
+            }
+        }
+
+        return dp[0][0][x];
     }
-
-    public int maxProfitWorker(int[] prices, int index, int buy, int k, int[][][] dp) {
-        if(index >= prices.length || k < 0){
-            return 0;
-        }
-
-        if(dp[index][buy][k] != -1){
-            return dp[index][buy][k];
-        }
-
-        int ans=0;
-
-        if(buy==1){
-            ans = -prices[index]+maxProfitWorker(prices,index+1,0,k-1,dp);
-        }
-
-        else{
-            ans = prices[index]+maxProfitWorker(prices,index+1,1,k,dp);
-        }
-
-        return dp[index][buy][k] = Math.max(ans,maxProfitWorker(prices,index+1,buy,k,dp));
-    }   
 }
