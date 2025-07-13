@@ -1,29 +1,28 @@
 class Solution {
-    public int maxProfit(int k, int[] prices) {
-        Integer[][][] dp = new Integer[prices.length][2][k+1];
-        return maxProfitWorker(k,prices,0,1,dp);
-    }
+    public int maxProfit(int x, int[] prices) {
+        int n = prices.length;
+        int[][] next = new int[2][x+1];
+        int[][] curr = new int[2][x+1];
 
-    public int maxProfitWorker(int k, int[] prices, int idx, int buy, Integer[][][] dp) {
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j>=0;j--){
+                for(int k=x;k>0;k--){
 
-        if(idx >= prices.length || k == 0){
-            return 0;
+                    int ans=0;
+
+                    if(j == 1){
+                        ans = prices[i]+next[0][k-1];
+                    }
+                    else{
+                        ans = -prices[i]+next[1][k];
+                    }   
+
+                    curr[j][k] = Math.max(ans,next[j][k]);
+                }
+            }
+            next = curr;
         }
 
-        if(dp[idx][buy][k] != null){
-            return dp[idx][buy][k];
-        }
-
-        int ans = 0;
-
-        if(buy == 1){
-            ans = -prices[idx]+maxProfitWorker(k,prices,idx+1,0,dp);
-        }
-
-        else{
-            ans = prices[idx]+maxProfitWorker(k-1,prices,idx+1,1,dp);
-        }
-
-        return dp[idx][buy][k] = Math.max(ans,maxProfitWorker(k,prices,idx+1,buy,dp));
+        return next[0][x];
     }
 }
