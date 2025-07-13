@@ -18,6 +18,8 @@ class Solution {
             }
         }
 
+        int[][] next = dp[n];
+
         for(int i=n-1;i>=0;i--){
             for(int j=1;j>=0;j--){
                 for(int k=x;k>0;k--){
@@ -25,15 +27,16 @@ class Solution {
                     int ans=0;
 
                     if(j == 1){
-                        ans = prices[i]+dp[i+1][0][k-1];
+                        ans = prices[i]+next[0][k-1];
                     }
                     else{
-                        ans = -prices[i]+dp[i+1][1][k];
+                        ans = -prices[i]+next[1][k];
                     }   
 
-                    dp[i][j][k] = Math.max(ans,dp[i+1][j][k]);
+                    dp[i][j][k] = Math.max(ans,next[j][k]);
                 }
             }
+            next = dp[i];
         }
 
         return dp[0][0][x];
