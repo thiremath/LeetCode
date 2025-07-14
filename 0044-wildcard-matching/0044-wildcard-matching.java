@@ -4,30 +4,32 @@ class Solution {
         char[] parr = p.toCharArray();
 
         int slen = sarr.length,plen = parr.length;
-        boolean[][] dp = new boolean[slen+1][plen+1];
 
-        dp[slen][plen] = true;
+        boolean[] prev = new boolean[plen+1];
+        prev[plen] = true;
 
         for (int j = plen - 1; j >= 0; j--) {
             if (parr[j] == '*') {
-                dp[slen][j] = dp[slen][j + 1];
+                prev[j] = prev[j + 1];
             }
         }
 
         for(int i=slen-1;i>=0;i--){
+            boolean[] curr = new boolean[plen+1];
             for(int j=plen-1;j>=0;j--){
                 if(sarr[i] == parr[j] || parr[j] == '*' || parr[j] == '?'){
-                    dp[i][j] = dp[i+1][j+1];
+                    curr[j] = prev[j+1];
                     if(parr[j] == '*'){
-                        dp[i][j] = dp[i][j] || dp[i+1][j] || dp[i][j+1];
+                        curr[j] = prev[j] || curr[j+1];
                     }
                 }
                 else{
-                    dp[i][j] = false;
+                    curr[j] = false;
                 }
             }
+            prev = curr;
         }
 
-        return dp[0][0];
+        return prev[0];
     }
 }
