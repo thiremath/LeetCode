@@ -230,6 +230,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0909-stone-game](https://github.com/thiremath/LeetCode/tree/master/0909-stone-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/thiremath/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -313,6 +314,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
 |  |
 | ------- |
