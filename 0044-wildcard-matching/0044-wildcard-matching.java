@@ -5,6 +5,8 @@ class Solution {
 
         int slen = sarr.length,plen = parr.length;
 
+        collapseStars(p);
+
         boolean[] prev = new boolean[plen+1];
         prev[plen] = true;
 
@@ -32,4 +34,20 @@ class Solution {
 
         return prev[0];
     }
+
+    private String collapseStars(String p) {
+        StringBuilder sb = new StringBuilder();
+        boolean star = false;
+        for (char c : p.toCharArray()) {
+            if (c == '*') {
+                if (!star) sb.append('*');
+                star = true;
+            } else {
+                sb.append(c);
+                star = false;
+            }
+        }
+        return sb.toString();
+    }
+
 }
