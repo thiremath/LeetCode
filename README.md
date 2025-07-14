@@ -254,6 +254,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/thiremath/LeetCode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/thiremath/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thiremath/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/thiremath/LeetCode/tree/master/0072-edit-distance) |
@@ -386,6 +387,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thiremath/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/thiremath/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/thiremath/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thiremath/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -559,6 +561,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/thiremath/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/thiremath/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thiremath/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/thiremath/LeetCode/tree/master/0135-candy) |
@@ -628,6 +631,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thiremath/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/thiremath/LeetCode/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/thiremath/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
