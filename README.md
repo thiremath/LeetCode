@@ -108,6 +108,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thiremath/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
@@ -179,6 +180,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/thiremath/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thiremath/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/thiremath/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -376,6 +378,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thiremath/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/thiremath/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -498,6 +501,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/thiremath/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thiremath/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
