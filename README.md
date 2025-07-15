@@ -102,6 +102,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0135-candy](https://github.com/thiremath/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/thiremath/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thiremath/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
@@ -265,6 +266,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0131-palindrome-partitioning](https://github.com/thiremath/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/thiremath/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
@@ -404,6 +406,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0131-palindrome-partitioning](https://github.com/thiremath/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/thiremath/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thiremath/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -520,6 +523,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/thiremath/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -588,12 +592,14 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/thiremath/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/thiremath/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thiremath/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -610,6 +616,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/thiremath/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/thiremath/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/thiremath/LeetCode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/thiremath/LeetCode/tree/master/1160-letter-tile-possibilities) |
