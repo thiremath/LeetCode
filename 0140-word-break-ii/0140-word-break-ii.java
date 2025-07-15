@@ -26,12 +26,8 @@ class Solution {
         for(int i=low+1;i<=high;i++){
             String curr = s.substring(low,i);
             if(set.contains(curr)){
-                List<String> next = wordBreakWorker(s,i,high);
-                if(next.size()!=0){
-                    for(String st: next){
-                        StringBuilder currans = new StringBuilder(curr).append(" ").append(st);
-                        dp[low][high].add(String.valueOf(currans));   
-                    }
+                for(String st: wordBreakWorker(s,i,high)){
+                    dp[low][high].add(curr+" "+st);   
                 }
             }
         }
