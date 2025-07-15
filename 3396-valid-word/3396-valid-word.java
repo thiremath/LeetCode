@@ -10,14 +10,13 @@ class Solution {
 
         word = word.toLowerCase();
 
-
         for(int i=0;i<word.length();i++){
             char c = word.charAt(i);
-            if((c-'0' <= 9 && c-'0' >= 0) || (c-'a' <= 25 && c-'a' >= 0)){
+            if(Character.isDigit(c) || Character.isLetter(c)){
                 if(!onevowel && (c == 'a' || c=='e' || c=='i' || c=='o' || c=='u')){
                     onevowel = true;
                 }
-                if(!oneconsonant && (c-'a' <= 25 && c-'a' >= 0) && !(c == 'a' || c=='e' || c=='i' || c=='o' || c=='u')){
+                if(!oneconsonant && Character.isLetter(c) && !(c == 'a' || c=='e' || c=='i' || c=='o' || c=='u')){
                     oneconsonant = true;
                 }
             }
