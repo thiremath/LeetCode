@@ -284,6 +284,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thiremath/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/thiremath/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/thiremath/LeetCode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/thiremath/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
