@@ -263,6 +263,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0115-distinct-subsequences](https://github.com/thiremath/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/thiremath/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/thiremath/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -401,6 +402,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/thiremath/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thiremath/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/thiremath/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/thiremath/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thiremath/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/thiremath/LeetCode/tree/master/0221-maximal-square) |
