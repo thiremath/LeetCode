@@ -26,7 +26,8 @@ class Solution {
         for(int i=low+1;i<=high;i++){
             String curr = s.substring(low,i);
             if(set.contains(curr)){
-                for(String st: wordBreakWorker(s,i,high)){
+                List<String> next = wordBreakWorker(s,i,high);
+                for(String st: next){
                     dp[low][high].add(curr+" "+st);   
                 }
             }
