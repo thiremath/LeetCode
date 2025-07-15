@@ -27,8 +27,11 @@ class Solution {
             String curr = s.substring(low,i);
             if(set.contains(curr)){
                 List<String> next = wordBreakWorker(s,i,high);
-                for(String st: next){
-                    dp[low][high].add(curr+" "+st);   
+                if(next.size()!=0){
+                    for(String st: next){
+                        StringBuilder currans = new StringBuilder(curr).append(" ").append(st);
+                        dp[low][high].add(String.valueOf(currans));   
+                    }
                 }
             }
         }
