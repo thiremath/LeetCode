@@ -28,10 +28,6 @@ class Solution {
     }
 
     public boolean isPalindrome(String s,int low,int high) {
-        if(s.length() == 1){
-            return true;
-        }
-
         while(low < high){
             if(s.charAt(low++)!=s.charAt(high--)){
                 return false;
