@@ -3,15 +3,13 @@ class Solution {
     public int maximumLength(int[] nums, int k) {
 
         int n = nums.length;
-        int Max=0;
 
         for(int i=0;i<n;i++){
             nums[i] = nums[i]%k;
-            Max = Math.max(Max,nums[i]);
         }
 
         int ans=0;
-        dp = new Integer[nums.length][Max+1];
+        dp = new Integer[nums.length][k];
 
         for(int i=0;i<n-1;i++){
             if(ans >= n-i){
