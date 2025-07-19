@@ -326,6 +326,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
@@ -386,6 +387,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -473,6 +475,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thiremath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/thiremath/LeetCode/tree/master/0744-network-delay-time) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thiremath/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -675,4 +678,8 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
