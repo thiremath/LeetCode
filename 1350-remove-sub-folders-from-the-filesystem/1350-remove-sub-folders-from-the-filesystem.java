@@ -6,12 +6,12 @@ class Solution {
         Arrays.sort(folder);
 
         int high=-1;
-        String prev="-";
+        StringBuilder prev = new StringBuilder("-");
 
         while(++high < folder.length){
-            if(!folder[high].startsWith(prev)){
+            if(!folder[high].startsWith(prev.toString())){
                 ans.add(folder[high]);
-                prev = folder[high]+"/";
+                prev = new StringBuilder(folder[high]).append("/");
             }
         }
 
