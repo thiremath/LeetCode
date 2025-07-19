@@ -24,9 +24,8 @@ class Solution {
 
         while(pq.size() > 0){
             ListNode curr = pq.poll();
-            // System.out.println(curr.val);
             ans.next = curr;
-            ans = ans.next;
+            ans = curr;
             if(curr.next != null){
                 pq.add(curr.next);
             }
