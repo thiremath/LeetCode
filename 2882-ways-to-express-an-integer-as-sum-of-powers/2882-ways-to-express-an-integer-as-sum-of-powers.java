@@ -9,7 +9,7 @@ class Solution {
             powers.add(temp);
         }
 
-        Integer[][] dp = new Integer[powers.size()][301];
+        Integer[][] dp = new Integer[powers.size()][n+1];
 
         return numberOfWaysWorker(powers,0,n,dp);
     }
