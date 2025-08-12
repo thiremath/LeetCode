@@ -28,14 +28,6 @@ class Solution {
             return dp[index][n];
         }
 
-        int ans = 0;
-
-        if(n > 0){
-            long res = (numberOfWaysWorker(powers,index+1,n-powers.get(index),dp)+ numberOfWaysWorker(powers,index+1,n,dp))%1000000007;
-            ans = (int) res;
-        }
-
-        return dp[index][n]=ans;
-
+        return dp[index][n]= (int) (numberOfWaysWorker(powers,index+1,n-powers.get(index),dp)+ numberOfWaysWorker(powers,index+1,n,dp))%1000000007;
     }
 }
