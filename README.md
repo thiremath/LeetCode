@@ -270,6 +270,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0231-power-of-two](https://github.com/thiremath/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/thiremath/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thiremath/LeetCode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/thiremath/LeetCode/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -550,6 +551,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0136-single-number](https://github.com/thiremath/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/thiremath/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/thiremath/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/thiremath/LeetCode/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/thiremath/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thiremath/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -734,6 +736,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0231-power-of-two](https://github.com/thiremath/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/thiremath/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thiremath/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/thiremath/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Game Theory
