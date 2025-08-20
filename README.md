@@ -793,6 +793,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0584-find-customer-referee](https://github.com/thiremath/LeetCode/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/thiremath/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/thiremath/LeetCode/tree/master/1258-article-views-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/thiremath/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/thiremath/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/thiremath/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/thiremath/LeetCode/tree/master/1827-invalid-tweets) |
