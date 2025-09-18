@@ -33,7 +33,6 @@ class TaskManager {
     }
     
     public void rmv(int taskId) {
-        // System.out.println(taskId+" rmv");
         taskMap.remove(taskId);
     }
     
@@ -65,9 +64,9 @@ class Task{
         return taskId;
     }
 
-    public void setPriority(int priorityIn){
-        priority = priorityIn;
-    }
+    // public void setPriority(int priorityIn){
+    //     priority = priorityIn;
+    // }
 
     public int getPriority(){
         return priority;
