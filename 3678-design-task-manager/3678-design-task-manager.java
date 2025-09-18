@@ -4,13 +4,16 @@ class TaskManager {
     private Map<Integer,Task> taskMap;
 
     public TaskManager(List<List<Integer>> tasks) {
+
         taskPq = new PriorityQueue<>((a,b)->{
                 if(a.getPriority() != b.getPriority()){
                     return b.getPriority()-a.getPriority();
                 }
                 return b.getTaskId()-a.getTaskId();
         });    
+
         taskMap = new HashMap<>();
+        
 
         for(List<Integer> currTask: tasks){
             Task t = new Task(currTask.get(1),currTask.get(2),currTask.get(0));
@@ -51,7 +54,7 @@ class TaskManager {
 
 class Task{
     private final int taskId;
-    private int priority;
+    private final int priority;
     private final int userId;
 
     public Task(int taskIdIn, int priorityIn, int userIdIn){
@@ -63,10 +66,6 @@ class Task{
     public int getTaskId(){
         return taskId;
     }
-
-    // public void setPriority(int priorityIn){
-    //     priority = priorityIn;
-    // }
 
     public int getPriority(){
         return priority;
