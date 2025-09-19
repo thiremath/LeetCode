@@ -40,6 +40,7 @@ Follow-up: implement sum
     private int[][] sheet;
     private int rows;
     private int cols;
+    private CellParser parser;
 
     public Spreadsheet(int rowsIn){
         rows = rowsIn;
@@ -48,48 +49,42 @@ Follow-up: implement sum
     }
 
     public int getCellValue(String cell){
-        int[] parsedCell = parse(cell);
+        int[] parsedCell = parser.parse(cell);
         return sheet[parsedCell[0]][parsedCell[1]];
     }
 
     public void setCell(String cell, int val){
-        int[] parsedCell = parse(cell);
+        int[] parsedCell = parser.parse(cell);
         sheet[parsedCell[0]][parsedCell[1]]=val;
     }
 
     public void resetCell(String cell){
-        int[] parsedCell = parse(cell);
+        int[] parsedCell = parser.parse(cell);
         sheet[parsedCell[0]][parsedCell[1]]=0;
-    }
-
-    public int[] parse(String cell){
-        int[] parsedCell = new int[2];
-        parsedCell[0] = Integer.valueOf(cell.substring(1,cell.length()))-1;
-        parsedCell[1] = cell.charAt(0)-'A';
-        return parsedCell;
     }
 
     public int getValue(String formula) {
         formula=formula.replace("=","");
-        String[] arr = formula.split("\\+");
-        int a=0,b=0;
+        int res=0;
 
-        if(Character.isDigit(arr[0].charAt(0))){
-            a = Integer.valueOf(arr[0]);
-        }
-        else{
-            int[] parsedCell = parse(arr[0]);
-            a = sheet[parsedCell[0]][parsedCell[1]];
-        }
-
-        if(Character.isDigit(arr[1].charAt(0))){
-            b = Integer.valueOf(arr[1]);
-        }
-        else{
-            int[] parsedCell = parse(arr[1]);
-            b = sheet[parsedCell[0]][parsedCell[1]];
+        for(String st: formula.split("\\+")){
+            if(Character.isDigit(st.charAt(0))){
+                res += Integer.valueOf(st);
+            }
+            else{
+                int[] parsedCell = parser.parse(st);
+                res += sheet[parsedCell[0]][parsedCell[1]];
+            }
         }
 
-        return a+b;
+        return res;
+    }
+ }
+
+ class CellParser{
+    public static int[] parse(String cell){
+        int a = Integer.valueOf(cell.substring(1,cell.length()))-1;
+        int b = cell.charAt(0)-'A';
+        return new int[]{a,b};
     }
  }
