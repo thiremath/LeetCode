@@ -4,7 +4,7 @@ class Solution {
         List<Integer> prev = triangle.get(n-1);
         List<Integer> curr = new ArrayList<>();
         for(int i=n-2;i>=0;i--){
-            for(int j=0;j<triangle.get(i).size();j++){
+            for(int j=0;j<=i;j++){
                 curr = triangle.get(i);
                 curr.set(j,curr.get(j)+Math.min(prev.get(j),prev.get(j+1)));
             }
