@@ -293,6 +293,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/thiremath/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/thiremath/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1806-count-of-matches-in-tournament](https://github.com/thiremath/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/thiremath/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thiremath/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/thiremath/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -590,6 +591,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
+| [1806-count-of-matches-in-tournament](https://github.com/thiremath/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/thiremath/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/thiremath/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
