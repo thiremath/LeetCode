@@ -380,6 +380,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -394,6 +395,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
 |  |
@@ -635,6 +637,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0127-word-ladder](https://github.com/thiremath/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -834,4 +837,8 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/thiremath/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/thiremath/LeetCode/tree/master/3678-design-task-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
