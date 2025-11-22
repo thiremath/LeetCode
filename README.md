@@ -278,6 +278,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/thiremath/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/thiremath/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/thiremath/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
