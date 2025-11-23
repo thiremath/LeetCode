@@ -95,6 +95,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thiremath/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/thiremath/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/thiremath/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
@@ -312,6 +313,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thiremath/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/thiremath/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/thiremath/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thiremath/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thiremath/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/thiremath/LeetCode/tree/master/0038-count-and-say) |
@@ -720,6 +722,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thiremath/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/thiremath/LeetCode/tree/master/0386-lexicographical-numbers) |
