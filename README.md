@@ -95,6 +95,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thiremath/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thiremath/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/thiremath/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/thiremath/LeetCode/tree/master/0048-rotate-image) |
@@ -216,6 +217,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thiremath/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/thiremath/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/thiremath/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -462,6 +464,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thiremath/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/thiremath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
