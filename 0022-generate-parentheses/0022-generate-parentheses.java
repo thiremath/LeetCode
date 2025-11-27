@@ -1,31 +1,34 @@
 class Solution {
-    List<String> ans;
-    StringBuilder currAns;
-
+    List<String> res;
     public List<String> generateParenthesis(int n) {
-        ans = new ArrayList<>();
-        currAns = new StringBuilder("");
+        // can open a bracket when n > 0
+        // can close a bracket when openbrackets>0
+        // when n==0 && openbrackets==0 push string to res
 
-        backtrack(n,0);
-        return ans;
+        res = new ArrayList<>();
+        if(n==0) return res;
+
+        generateParenthesisWorker(n,0,new StringBuilder());
+
+        return res;
     }
 
-    public void backtrack(int n, int pairsOpen){
-
-        if(n == 0 && pairsOpen == 0){
-            ans.add(currAns.toString());
+    public void generateParenthesisWorker(int n, int currOpenBrackets, StringBuilder currRes) {
+        if(n==0 && currOpenBrackets==0){
+            res.add(String.valueOf(currRes));
+            return;
         }
 
         if(n > 0){
-            currAns.append("(");
-            backtrack(n-1,pairsOpen+1);
-            currAns.deleteCharAt(currAns.length()-1);
+            currRes.append("(");
+            generateParenthesisWorker(n-1,currOpenBrackets+1,currRes);
+            currRes.deleteCharAt(currRes.length()-1);
         }
 
-        if(pairsOpen > 0){
-            currAns.append(")");
-            backtrack(n,pairsOpen-1);
-            currAns.deleteCharAt(currAns.length()-1);
+        if(currOpenBrackets>0){
+            currRes.append(")");
+            generateParenthesisWorker(n,currOpenBrackets-1,currRes);
+            currRes.deleteCharAt(currRes.length()-1);
         }
     }
 }
