@@ -134,6 +134,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/thiremath/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/thiremath/LeetCode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/thiremath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -255,6 +256,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thiremath/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/thiremath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/thiremath/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/thiremath/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -648,6 +650,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/thiremath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/thiremath/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
