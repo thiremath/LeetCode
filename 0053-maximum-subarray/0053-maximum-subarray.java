@@ -1,18 +1,33 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int ans = nums[0];
-        int currsum = 0;
+        int n = nums.length;
+        if(n==0) return 0;
 
-        for(int curr=0;curr<nums.length;curr++){
-            if(nums[curr]+currsum < nums[curr]){
-                currsum = nums[curr];
+        int currsum=0,res=nums[0];
+
+        for(int num: nums){
+
+            if(currsum < 0){
+                currsum = 0;
             }
-            else{
-                currsum+=nums[curr];
-            }
-            ans = Math.max(ans,currsum);
+
+            currsum += num;
+            res = Math.max(res,currsum);
         }
 
-        return ans;
+        return res;
     }
 }
+
+/**
+
+[-2,1,-3,4,-1,2,1,-5,4]
+
+try adding nums[i] to currsum
+
+if currsum < 0
+    currsum = 0
+
+res = Math.max(res,currsum)
+
+ */
