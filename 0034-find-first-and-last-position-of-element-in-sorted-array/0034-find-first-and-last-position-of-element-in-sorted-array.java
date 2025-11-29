@@ -40,8 +40,6 @@ class Solution {
         //     high = nums.length-1;
         // }
 
-        System.out.println("low,high,bool"+low+" "+high+" "+isLeftMostFarthest);
-
         while(low <= high){
             int mid = low + (high-low)/2;
 
