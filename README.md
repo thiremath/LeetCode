@@ -388,6 +388,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thiremath/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/thiremath/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -399,6 +400,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/thiremath/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -762,6 +764,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -865,4 +868,8 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thiremath/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
