@@ -10,27 +10,31 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
+        boolean areListsTraversed = true;
+        ListNode minNode = null;
 
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
+        for(ListNode l: lists){
+            if(l != null && areListsTraversed){
+                areListsTraversed = false;
+            }
 
-        ListNode ans = new ListNode();
-        ListNode ret = ans;
-
-        for(ListNode list: lists){
-            if(list != null){
-                pq.add(list);
+            // find smallest node and store in minNode
+            if(l!=null && (minNode == null || minNode.val > l.val)){
+                minNode = l;
             }
         }
 
-        while(pq.size() > 0){
-            ListNode curr = pq.poll();
-            ans.next = curr;
-            ans = curr;
-            if(curr.next != null){
-                pq.add(curr.next);
+        if(areListsTraversed) return null;
+
+        for(int i=0;i<lists.length;i++){
+            if(lists[i]!=null && lists[i].val == minNode.val){
+                lists[i] = lists[i].next;
+                break;
             }
         }
 
-        return ret.next;
+        minNode.next = mergeKLists(lists);
+
+        return minNode;
     }
 }
