@@ -214,6 +214,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/thiremath/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/thiremath/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/thiremath/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3531-count-covered-buildings](https://github.com/thiremath/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3639-zero-array-transformation-i](https://github.com/thiremath/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/thiremath/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/thiremath/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -579,6 +580,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [3321-type-of-triangle](https://github.com/thiremath/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/thiremath/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3531-count-covered-buildings](https://github.com/thiremath/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/thiremath/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -695,6 +697,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/thiremath/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/thiremath/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/thiremath/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3531-count-covered-buildings](https://github.com/thiremath/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3678-design-task-manager](https://github.com/thiremath/LeetCode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thiremath/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/thiremath/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
