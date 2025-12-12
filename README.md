@@ -151,6 +151,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [1025-minimum-cost-for-tickets](https://github.com/thiremath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/thiremath/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thiremath/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/thiremath/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thiremath/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/thiremath/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/thiremath/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -237,6 +238,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [1046-max-consecutive-ones-iii](https://github.com/thiremath/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/thiremath/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/thiremath/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thiremath/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/thiremath/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -565,6 +567,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/thiremath/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thiremath/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/thiremath/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/thiremath/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
