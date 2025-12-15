@@ -17,6 +17,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0200-number-of-islands](https://github.com/thiremath/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/thiremath/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thiremath/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thiremath/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thiremath/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thiremath/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/thiremath/LeetCode/tree/master/0310-minimum-height-trees) |
@@ -353,6 +354,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/thiremath/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thiremath/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -409,6 +411,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thiremath/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/thiremath/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/thiremath/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -761,6 +764,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0014-longest-common-prefix](https://github.com/thiremath/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/thiremath/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thiremath/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/thiremath/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/thiremath/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thiremath/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
