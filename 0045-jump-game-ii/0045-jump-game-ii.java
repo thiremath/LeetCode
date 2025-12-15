@@ -10,14 +10,20 @@ class Solution {
             else{
                 int minJumpToReach = Integer.MAX_VALUE;
 
-                for(int j=i+1;j<=Math.min(i+nums[i],n-1);j++){
-                    minJumpToReach = Math.min(minJumpToReach,nums[j]);
-                }
+                if(nums[i]+i >= n-1) nums[i] = 1;
 
-                nums[i] = minJumpToReach;
+                else{
 
-                if(minJumpToReach != Integer.MAX_VALUE){
-                    nums[i]++;
+                    for(int j=i+1;j<=i+nums[i];j++){
+                        minJumpToReach = Math.min(minJumpToReach,nums[j]);
+                    }
+
+                    nums[i] = minJumpToReach;
+
+                    if(minJumpToReach != Integer.MAX_VALUE){
+                        nums[i]++;
+                    }
+
                 }
             }
         }
