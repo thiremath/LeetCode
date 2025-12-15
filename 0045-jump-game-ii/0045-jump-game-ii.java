@@ -1,20 +1,31 @@
 class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
-        int[] jumps = new int[n];
+
+        nums[n-1] = 0;
 
         for(int i=n-2;i>=0;i--){
-            int curr=Integer.MAX_VALUE-1;
-            for(int j=i+1;j<=nums[i]+i && j < n;j++){
-                curr = Math.min(jumps[j],curr);
+            if(nums[i]==0) nums[i] = Integer.MAX_VALUE;
+
+            else{
+                int minJumpToReach = Integer.MAX_VALUE;
+
+                for(int j=i+1;j<=Math.min(i+nums[i],n-1);j++){
+                    minJumpToReach = Math.min(minJumpToReach,nums[j]);
+                }
+
+                nums[i] = minJumpToReach;
+
+                if(minJumpToReach != Integer.MAX_VALUE){
+                    nums[i]++;
+                }
             }
-            jumps[i] = 1+curr;
         }
 
-        // for(int i=0;i<n;i++){
-        //     System.out.print(jumps[i]+" ");
-        // }
+        if(nums[0] != Integer.MAX_VALUE){
+            return nums[0];
+        }
 
-        return jumps[0];
+        return -1;
     }
 }
