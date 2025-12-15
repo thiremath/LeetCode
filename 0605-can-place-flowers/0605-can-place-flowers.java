@@ -3,7 +3,9 @@ class Solution {
 
         if(n == 0) return true;
 
-        for(int i=0;i<flowerbed.length;i++){
+        int i = 0;
+
+        while(i<flowerbed.length){
             if(flowerbed[i] == 0){
                 if(i==0 || flowerbed[i-1]==0){
                     if(i==flowerbed.length-1 || flowerbed[i+1]==0){
@@ -11,9 +13,14 @@ class Solution {
                         if(--n == 0){
                             return true;
                         }
+                        else{
+                            i+=2;
+                            continue;
+                        }
                     }
                 }
             }
+            i++;
         }
 
         return false;       
