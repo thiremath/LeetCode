@@ -143,6 +143,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0518-coin-change-ii](https://github.com/thiremath/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/thiremath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/thiremath/LeetCode/tree/master/0605-can-place-flowers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/thiremath/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -737,6 +738,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0055-jump-game](https://github.com/thiremath/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thiremath/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/thiremath/LeetCode/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/thiremath/LeetCode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/thiremath/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/thiremath/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
