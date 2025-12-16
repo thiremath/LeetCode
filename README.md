@@ -239,6 +239,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0222-count-complete-tree-nodes](https://github.com/thiremath/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thiremath/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/thiremath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/thiremath/LeetCode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [1046-max-consecutive-ones-iii](https://github.com/thiremath/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/thiremath/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -312,6 +313,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/thiremath/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thiremath/LeetCode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/thiremath/LeetCode/tree/master/0441-arranging-coins) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/thiremath/LeetCode/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
