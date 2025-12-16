@@ -287,6 +287,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0011-container-with-most-water](https://github.com/thiremath/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thiremath/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/thiremath/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/thiremath/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/thiremath/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -425,6 +426,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/thiremath/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thiremath/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
