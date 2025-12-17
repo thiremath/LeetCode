@@ -432,6 +432,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0061-rotate-list](https://github.com/thiremath/LeetCode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/thiremath/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thiremath/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
@@ -830,6 +831,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0010-regular-expression-matching](https://github.com/thiremath/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/thiremath/LeetCode/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/thiremath/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/thiremath/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/thiremath/LeetCode/tree/master/0326-power-of-three) |
