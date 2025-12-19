@@ -10,7 +10,7 @@ class Solution {
     }
 
     public void dfs(int[][] graph, int node, Set<Integer> visitedSet){
-        visitedSet.add(node);
+        // visitedSet.add(node);
         currRes.add(node);
 
         if(node == graph.length-1){
@@ -25,7 +25,7 @@ class Solution {
             }
         }
 
-        visitedSet.remove(node);
+        // visitedSet.remove(node);
         currRes.remove(currRes.size()-1);
     }
 }
