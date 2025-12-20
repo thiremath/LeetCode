@@ -295,6 +295,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0061-rotate-list](https://github.com/thiremath/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/thiremath/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thiremath/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/thiremath/LeetCode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/thiremath/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/thiremath/LeetCode/tree/master/0189-rotate-array) |
@@ -433,6 +434,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0021-merge-two-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/thiremath/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/thiremath/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/thiremath/LeetCode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/thiremath/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/thiremath/LeetCode/tree/master/0203-remove-linked-list-elements) |
