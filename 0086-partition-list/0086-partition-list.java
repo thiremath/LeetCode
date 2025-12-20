@@ -33,9 +33,9 @@ class Solution {
             return head2.next;
         }
 
-        else if(head2.next == null){
-            return head1.next;
-        }
+        // else if(head2.next == null){
+        //     return head1.next;
+        // }
 
         root1.next = head2.next;
 
