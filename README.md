@@ -365,6 +365,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0165-compare-version-numbers](https://github.com/thiremath/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/thiremath/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/thiremath/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/thiremath/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/thiremath/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -408,6 +409,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0150-evaluate-reverse-polish-notation](https://github.com/thiremath/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/thiremath/LeetCode/tree/master/0394-decode-string) |
 | [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thiremath/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -842,6 +844,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0241-different-ways-to-add-parentheses](https://github.com/thiremath/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/thiremath/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thiremath/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/thiremath/LeetCode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thiremath/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/thiremath/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Game Theory
