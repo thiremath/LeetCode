@@ -144,6 +144,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0403-frog-jump](https://github.com/thiremath/LeetCode/tree/master/0403-frog-jump) |
 | [0475-heaters](https://github.com/thiremath/LeetCode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/thiremath/LeetCode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/thiremath/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/thiremath/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/thiremath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -410,6 +411,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0155-min-stack](https://github.com/thiremath/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/thiremath/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/thiremath/LeetCode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/thiremath/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/thiremath/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/thiremath/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -692,6 +694,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0140-word-break-ii](https://github.com/thiremath/LeetCode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/thiremath/LeetCode/tree/master/0146-lru-cache) |
 | [0433-minimum-genetic-mutation](https://github.com/thiremath/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/thiremath/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/thiremath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/thiremath/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -909,5 +912,6 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/thiremath/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
