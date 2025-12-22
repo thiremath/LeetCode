@@ -151,6 +151,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0605-can-place-flowers](https://github.com/thiremath/LeetCode/tree/master/0605-can-place-flowers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thiremath/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/thiremath/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0812-largest-triangle-area](https://github.com/thiremath/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/thiremath/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/thiremath/LeetCode/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/thiremath/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -320,6 +321,7 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | [0326-power-of-three](https://github.com/thiremath/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thiremath/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/thiremath/LeetCode/tree/master/0441-arranging-coins) |
+| [0812-largest-triangle-area](https://github.com/thiremath/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/thiremath/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/thiremath/LeetCode/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thiremath/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -914,4 +916,8 @@ A list of leetCode problems to ace the coding interview. Created using LeetHub v
 | ------- |
 | [0496-next-greater-element-i](https://github.com/thiremath/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/thiremath/LeetCode/tree/master/0901-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/thiremath/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
